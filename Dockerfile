@@ -1,1 +1,1 @@
-FROM webdevops/php-nginx-dev:8.4-alpine
+FROM webdevops/php-nginx-dev:8.5-alpine
